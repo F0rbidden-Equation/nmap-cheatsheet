@@ -53,9 +53,8 @@ nmap --version
 
 ### Commandes Nmap essentielles
 
-```markdown
+
 ![Nmap - Commandes essentielles](./nmap-commandes-essentielles.png)
-```
 
 ### Scripts NSE essentiels
 
