@@ -58,9 +58,8 @@ nmap --version
 
 ### Scripts NSE essentiels
 
-```markdown
-![Nmap - Scripts NSE essentiels](assets/nmap-scripts-nse.png)
-```
+![Nmap - Scripts NSE essentiels](nmap-scripts-nse.png)
+
 
 ---
 
